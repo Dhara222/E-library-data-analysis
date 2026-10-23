@@ -1,0 +1,31 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days),Time
+T001,2026-01-05,U101,Python Basics,Programming,7,09:30
+T002,2026-01-05,U102,Data Science,Technology,5,10:15
+T003,2026-01-06,U103,Harry Potter,Fantasy,10,11:00
+T004,2026-01-07,U101,Python Basics,Programming,4,14:30
+T005,2026-01-08,U104,The Alchemist,Fiction,6,16:00
+T006,2026-01-12,U105,Atomic Habits,Self Help,8,09:00
+T007,2026-01-15,U106,Rich Dad Poor Dad,Finance,5,12:30
+T008,2026-01-18,U107,Ikigai,Self Help,4,15:00
+T009,2026-01-20,U108,Deep Work,Productivity,7,10:45
+T010,2026-01-25,U109,The Hobbit,Fantasy,9,13:15
+T011,2026-02-02,U102,Data Science,Technology,8,10:00
+T012,2026-02-03,U105,Harry Potter,Fantasy,3,11:30
+T013,2026-02-04,U101,Python Basics,Programming,9,09:00
+T014,2026-02-10,U103,The Alchemist,Fiction,5,15:30
+T015,2026-02-15,U104,Atomic Habits,Self Help,6,12:00
+T016,2026-02-18,U110,Deep Work,Productivity,4,14:00
+T017,2026-02-20,U111,Rich Dad Poor Dad,Finance,7,16:30
+T018,2026-02-22,U106,Ikigai,Self Help,5,10:30
+T019,2026-02-25,U107,The Hobbit,Fantasy,8,13:00
+T020,2026-02-28,U108,Python Basics,Programming,6,11:15
+T021,2026-03-01,U102,Python Basics,Programming,7,10:30
+T022,2026-03-05,U105,Harry Potter,Fantasy,4,14:00
+T023,2026-03-10,U101,Data Science,Technology,6,09:45
+T024,2026-03-15,U103,The Alchemist,Fiction,8,16:30
+T025,2026-03-20,U104,Atomic Habits,Self Help,5,11:15
+T026,2026-03-22,U109,Deep Work,Productivity,6,12:45
+T027,2026-03-24,U110,Rich Dad Poor Dad,Finance,9,15:30
+T028,2026-03-26,U111,Ikigai,Self Help,3,09:15
+T029,2026-03-28,U106,The Hobbit,Fantasy,7,13:45
+T030,2026-03-30,U107,Data Science,Technology,5,16:00
